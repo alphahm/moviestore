@@ -3,8 +3,6 @@ import model.Movie;
 import java.util.LinkedList;
 import java.util.List;
 
-import static java.util.Arrays.asList;
-
 public class MovieStore {
 
     List<Movie> movies = new LinkedList<Movie>();
